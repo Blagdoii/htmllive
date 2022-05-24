@@ -18,3 +18,10 @@ font-family: Verdana;
 font-size: 30px;
 color: white;
 }
+
+h1 {
+font-family: Verdana;
+font-size: 19px;
+color: white;
+text-align: center;
+}
