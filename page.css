@@ -31,7 +31,7 @@ div {
 text-align: center;
 }
 
-a {
+.but {
   font-size:15px;
   font-family:Arial;
   width:140px;
@@ -48,7 +48,7 @@ a {
   background:#44c767;
 }
 
-a:hover {
+.but:hover {
   background: #5cbf2a
 }
               
